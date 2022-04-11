@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotacion", "Rotacion\Rotacion.csproj", "{95AF68AA-8C9E-4386-9557-C96A15757217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioValles", "DesafioValles\DesafioValles.csproj", "{9C2E4627-BC89-48CE-B520-85512DD3AC7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95AF68AA-8C9E-4386-9557-C96A15757217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95AF68AA-8C9E-4386-9557-C96A15757217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95AF68AA-8C9E-4386-9557-C96A15757217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2E4627-BC89-48CE-B520-85512DD3AC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2E4627-BC89-48CE-B520-85512DD3AC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2E4627-BC89-48CE-B520-85512DD3AC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2E4627-BC89-48CE-B520-85512DD3AC7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
